@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  command = "hugo --gc --config hugo.toml"
+  
+[build.environment]
+  HUGO_VERSION = "0.115.2"
