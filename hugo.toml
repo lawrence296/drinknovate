@@ -1,4 +1,4 @@
-baseURL = 'https://drinknovate.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Drinknovate'
 theme = 'dopetrope'
