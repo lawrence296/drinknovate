@@ -1,0 +1,19 @@
+sections:
+- icon: 'fa-cog'
+  title: 'Shopfront'
+  description: 'Our goal is to serve the best quality bubble tea. Visit our shops to discover the fresh taste of our tea.'
+
+- icon: 'fa-flash'
+  title: 'Events'
+  description: 'We also do events and mobile catering. Contact us for more information.'
+
+- icon: 'fa-star'
+  title: 'Build'
+  description: 'We can help you to start up your own bubble tea business. We provide hardware, software, ingredients and know-hows to get your tea business up and running.'
+
+buttons:
+- link: '#'
+  text: 'Get Started'
+
+- link: '#'
+  text: 'Learn More'

@@ -1,0 +1,15 @@
+sections:
+- title: 'Latest Blog'
+
+- title: "Our Committments"
+  imagelink: '#'
+  imageurl: "/images/commitment.jpg"
+  description: "We source and use quality tea, fresh ingredients and healthy condiments."
+  buttonlink: "#"
+  buttontext: "Find out more"
+
+- title: 'Links'
+
+- title: 'Information'
+
+- title: 'Social Media'

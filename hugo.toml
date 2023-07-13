@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Drinknovate'
+theme = 'dopetrope'
+
+[params.blog]
+    title = "Our Services"
+    viewalltext = "View All"
+    foldername = "blog"
+
+[params.settings]
+    googleanalytics = ""
+    disqus = ""
